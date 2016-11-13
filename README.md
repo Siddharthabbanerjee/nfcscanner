@@ -1,2 +1,2 @@
 # nfcscanner
-Scan stuffs with NFC
+We should be able to transfer information with NFC.
