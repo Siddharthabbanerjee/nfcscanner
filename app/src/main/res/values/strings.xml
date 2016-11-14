@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Presidential Election</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="sample_question">Do you prefer Hillary or Trump as president?</string>
+    <string name="sample_first_answer">Hillary Clinton</string>
+    <string name="sample_second_answer">Donald Trump</string>
+
+    <string name="current_survey_fragment_title">Today\'s question</string>
+    <string name="previous_survey_fragment_title">Previous questions</string>
+
+    <string name="submit_button">SUBMIT</string>
+</resources>

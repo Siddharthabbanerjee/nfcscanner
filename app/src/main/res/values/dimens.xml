@@ -1,0 +1,26 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+
+    <dimen name="one">1dp</dimen>
+    <dimen name="xs">2dp</dimen>
+    <dimen name="s">4dp</dimen>
+    <dimen name="m">8dp</dimen>
+    <dimen name="l">12dp</dimen>
+    <dimen name="xl">16dp</dimen>
+    <dimen name="xxl">20dp</dimen>
+    <dimen name="xxxl">24dp</dimen>
+
+    <dimen name="text_size_m">8dp</dimen>
+    <dimen name="text_size_l">12dp</dimen>
+    <dimen name="text_size_xl">16dp</dimen>
+    <dimen name="text_size_xxl">20dp</dimen>
+    <dimen name="text_size_xxxl">24dp</dimen>
+
+
+    <dimen name="survey_question_padding_top">20dp</dimen>
+    <dimen name="submit_button_margin_top">80dp</dimen>
+</resources>
